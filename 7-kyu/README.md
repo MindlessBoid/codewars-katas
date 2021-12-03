@@ -1,0 +1,1 @@
+# This is a dir for 7-kyu katas
