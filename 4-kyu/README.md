@@ -1,0 +1,1 @@
+# This is a dir for 5-kyu katas
