@@ -1,5 +1,4 @@
-# 
-
+# Binary multiple of 3
 
 ## Tags
 
